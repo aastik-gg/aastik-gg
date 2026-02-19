@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aastik 👋
 
-<!--
-**aastik-gg/aastik-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Computer Science undergraduate at Scaler School of Technology & BITS Pilani  
+Backend-focused developer building production-ready full-stack systems  
+Experienced in API design, authentication workflows, and database architecture  
+Currently building AI-powered automation tools using Gemini  
+Interested in scalable systems, clean architecture, and backend engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Java • Python • JavaScript (ES6+) • SQL  
+
+**Backend**  
+FastAPI • Node.js • Express.js • REST APIs • JWT • SQLAlchemy  
+
+**Frontend**  
+React (Vite) • Tailwind CSS • Zustand  
+
+**Databases**  
+MySQL • MongoDB • PostGreSQL • SQLite  
+
+**AI & Integrations**  
+Gemini API • Gmail API • Stripe API  
+
+**Tools**  
+Git • Postman • Render • Environment-based configuration  
