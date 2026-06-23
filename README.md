@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science undergraduate at Scaler School of Technology & BITS Pilani  
+Computer Science undergraduate at BITS Pilani  
 Backend-focused developer building production-ready full-stack systems  
 Experienced in API design, authentication workflows, and database architecture  
 Currently building AI-powered automation tools using Gemini  
